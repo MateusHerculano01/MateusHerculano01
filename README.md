@@ -1,8 +1,12 @@
+
 ## Olá, me chamo Mateus Herculano <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hello" width="30px"/> 
 
 ### Bem vindo ao meu perfil GitHub :grin:
 
 <img src="https://github.com/MateusHerculano01/MateusHerculano01/blob/main/octocat.png" alt="pc" width="300px"/>
+
+![](https://komarev.com/ghpvc/?username=MateusHerculano01)
+  
 
 <div>
 <a href="https://github.com/MateusHerculano01">
