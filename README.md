@@ -1,4 +1,14 @@
-### Hi there 👋
+## Olá, me chamo Mateus Herculano <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" alt="Hello" width="30px"/> 
+
+### Bem vindo ao meu perfil GitHub :grin:
+
+<img src="https://64.media.tumblr.com/324771308e620b18243f0defccdfb26f/a2366e9d1e9bf824-ef/s500x750/e96cee532fd8f2306479ed3b0e1171a6cd1e0aaa.gifv" alt="pc" width="300px"/>
+
+<div>
+<a href="https://github.com/MateusHerculano01">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusHerculano01&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusHerculano01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <!--
 **MateusHerculano01/MateusHerculano01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +24,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Sobre mim:
+##
+> Atualmente sou estudante das tecnologias que abrangem o Front-End, me dedicando ao máximo a aprender cada dia mais. Desde que me embarquei neste mundo, estou disposto a encarar qualquer desáfio proposto desde que eu possa adquirir mais conhecimento.
+
+-- 👨‍💻 Desenvolvedor Jr.
+
+-- 👨‍🎓 Estudante de Tecnologia
+
+
+### Ferramentas e Tecnologias:
+##
+<p align="justify">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
+  
+</p>
+
+### Contatos:
+
+<div>
+
+<a href="https://www.facebook.com/mateus.herculano01/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="45" height="45" target="_blank"/></a>
+<a href = "mailto:contato@mateusherculano0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mateus-herculano001" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+  ![Snake animation](https://github.com/MateusHerculano01/MateusHerculano01/blob/output/github-contribution-grid-snake.svg)
