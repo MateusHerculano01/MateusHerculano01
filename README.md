@@ -2,7 +2,7 @@
 
 ### Bem vindo ao meu perfil GitHub :grin:
 
-<img src="https://64.media.tumblr.com/324771308e620b18243f0defccdfb26f/a2366e9d1e9bf824-ef/s500x750/e96cee532fd8f2306479ed3b0e1171a6cd1e0aaa.gifv" alt="pc" width="300px"/>
+<img src="https://github.com/MateusHerculano01/MateusHerculano01/blob/main/octocat.png" alt="pc" width="300px"/>
 
 <div>
 <a href="https://github.com/MateusHerculano01">
@@ -52,5 +52,3 @@ Here are some ideas to get you started:
 <a href = "mailto:contato@mateusherculano0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mateus-herculano001" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-  ![Snake animation](https://github.com/MateusHerculano01/MateusHerculano01/blob/output/github-contribution-grid-snake.svg)
