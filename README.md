@@ -3,7 +3,6 @@
 
 ### Bem vindo ao meu perfil GitHub :grin:
 
-<img src="https://github.com/MateusHerculano01/MateusHerculano01/blob/main/octocat.png" alt="pc" width="300px"/>
 
 ![](https://komarev.com/ghpvc/?username=MateusHerculano01)
   
