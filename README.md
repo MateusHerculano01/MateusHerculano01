@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Sobre mim:
 ##
-> Atualmente sou estudante das tecnologias que abrangem o Front-End, me dedicando ao máximo a aprender cada dia mais. Desde que me embarquei neste mundo, estou disposto a encarar qualquer desáfio proposto desde que eu possa adquirir mais conhecimento.
+> Atualmente sou estudante das tecnologias que abrangem o Front-End, me dedicando ao máximo a aprender cada dia mais. Desde que me embarquei neste mundo, estou disposto a encarar qualquer desafio proposto desde que eu possa adquirir mais conhecimento.
 
 -- 👨‍💻 Desenvolvedor Jr.
 
