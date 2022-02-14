@@ -37,13 +37,9 @@
 <img  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  min-width="400px"  max-width="400px"  width="500px"  align="right"  alt="logo">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
   
@@ -51,7 +47,6 @@
 **Development Tools**
 
 ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=Visual-Studio-Code&logoColor=007ACC)
-
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
   
@@ -59,7 +54,6 @@
 **Control Version**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-
 ![MongoDB](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 **Utilities Tools**
@@ -69,7 +63,6 @@
 **Operational Systems**
 
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)
-
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows&logoColor=0078D6)
 
 <!-- GitHub Analytics -->
