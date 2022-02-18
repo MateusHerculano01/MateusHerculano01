@@ -37,11 +37,14 @@
 <img  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  min-width="400px"  max-width="400px"  width="500px"  align="right"  alt="logo">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=007396)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=React&logoColor=007396)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=007396)
 
   
 
@@ -60,6 +63,7 @@
 **Utilities Tools**
 
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker&logoColor=007396)
 
 **Operational Systems**
 
