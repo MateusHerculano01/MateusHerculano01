@@ -1,4 +1,5 @@
 
+
 <div  align="center">
 <img  src="https://github.com/MateusHerculano01/MateusHerculano01/blob/main/octo.gif"  alt="GitHub Logo"  width="150"  height="150" />
 </div>
@@ -18,11 +19,8 @@
 <a href="https://www.linkedin.com/in/mateus-herculano001" alt="linkedin" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
 </a>
-<a href="https://wa.me/5564993458922" alt="WhatsApp" target="_blank">
-<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5564993458922"/>
-</a>
-<a href="mailto:mateusherculano0@gmail.com" alt="gmail" target="_blank">
-<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:mateusherculano0@gmail.com" />
+<a href="https://www.instagram.com/mateusherculano0/" alt="github" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-C93C94?&style=flat-square&logo=Instagram&logoColor=white">
 </a>
 </div>
 
@@ -43,6 +41,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=React&logoColor=007396)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular&logoColor=D6002F)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL&logoColor=007396)
 
@@ -81,12 +80,3 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusHerculano01&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusHerculano01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
-
-
-  
-
-
-
-  
-
