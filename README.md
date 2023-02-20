@@ -6,7 +6,7 @@
 
 <h1  align="center"> Hi there 👋, Nice to have you here.</h1>
 
-<h3  align="center"> Developer of Software </h3>
+<h3  align="center">Software Developer</h3>
 
 
 
