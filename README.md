@@ -30,8 +30,6 @@
 
 <h3  align="left"> :rocket:&nbsp;Hard Skills:</h3>  
 
-**Programming Languages and Database**
-
 <img  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  min-width="400px"  max-width="400px"  width="500px"  align="right"  alt="logo">
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
