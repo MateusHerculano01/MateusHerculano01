@@ -67,7 +67,7 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=Ubuntu)
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=Windows&logoColor=0078D6)
 
-<!-- GitHub Analytics -->
+<!-- GitHub Analytics
 
 <h3>:gear:&nbsp;GitHub Analytics:</h3>
 
@@ -78,3 +78,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusHerculano01&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusHerculano01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+ -->
